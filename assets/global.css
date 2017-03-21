@@ -14,11 +14,24 @@ body {
 .ui.head-content.segment {
   padding-top: 0 !important;
   padding-bottom: 0 !important;
+  border-top: 1px solid rgba(80,80,80, .6);
+  border-left: 1px solid rgba(80,80,80, .6);
+  border-right: 1px solid rgba(80,80,80, .6);
+}
+
+.ui.head-content.segment > .ui.menu {
+  margin-top: 32px;
 }
 
 /* space adjustments */
 
 .ui.space .ui.segment {
+  background-color: rgba(50,50,50,.4) !important;
+  border: 0 !important;
+  box-shadow: none;
+}
+
+.ui.space .ui.menu {
   background-color: rgba(10,10,10,.4) !important;
   border: 0 !important;
   box-shadow: none;
