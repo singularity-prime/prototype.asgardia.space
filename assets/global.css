@@ -18,7 +18,7 @@ body {
 
 /* space adjustments */
 
-.ui.space.segment {
+.ui.space .ui.segment {
   background-color: rgba(10,10,10,.4) !important;
   border: 0 !important;
   box-shadow: none;
