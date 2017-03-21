@@ -3,7 +3,7 @@ body {
   margin: 0 !important;
   padding: 0 ! important;
 
-  backgroud: url(images/space-2017.jpg) center;
+  background: url(images/space-2017.jpg) center;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
