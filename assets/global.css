@@ -8,3 +8,18 @@ body {
   background-size: cover;
   background-attachment: fixed;
 }
+
+/* head content */
+
+.ui.head-content.segment {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* space adjustments */
+
+.ui.space.segment {
+  background-color: rgba(10,10,10,.4) !important;
+  border: 0 !important;
+  box-shadow: none;
+}
