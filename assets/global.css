@@ -9,26 +9,6 @@ body {
   background-attachment: fixed;
 }
 
-/* head content */
-
-.ui.head-content.segment {
-  padding-top: 32px !important;
-  padding-bottom: 0 !important;
-  border-top: 1px solid black !important;
-  border-left: 1px solid black !important;
-  border-right: 1px solid black !important;
-
-  background: url(images/asgardia-sign.png) 6px center;
-  background-repeat: no-repeat;
-  background-size: 50px 50px;
-}
-
-.ui.head-content.segment > .ui.menu {
-  background-color: rgba(10,10,10, .4) !important;
-  color: white !important;
-  margin-left: 50px;
-}
-
 /* space adjustments */
 
 .ui.space .ui.segment {
@@ -52,4 +32,24 @@ body {
 .ui.space .ui.menu .item:hover {
   color: rgba(250,250,250,1) !important;
   background-color: rgba(80,80,80,.4) !important;
+}
+
+/* head content */
+
+.ui.head-content.segment {
+  padding-top: 32px !important;
+  padding-bottom: 0 !important;
+  border-bottom: 1px solid black !important;
+  border-left: 1px solid black !important;
+  border-right: 1px solid black !important;
+
+  background: url(images/asgardia-sign.png) 6px center;
+  background-repeat: no-repeat;
+  background-size: 50px 50px;
+}
+
+.ui.head-content.segment > .ui.menu {
+  background-color: rgba(10,10,10, .4) !important;
+  color: white !important;
+  margin-left: 50px;
 }
