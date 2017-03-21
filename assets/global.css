@@ -14,9 +14,9 @@ body {
 .ui.head-content.segment {
   padding-top: 32px !important;
   padding-bottom: 0 !important;
-  border-top: 1px solid rgba(0,0,0, .8);
-  border-left: 1px solid rgba(0,0,0, .8);
-  border-right: 1px solid rgba(0,0,0, .8);
+  border-top: 1px solid black !important;
+  border-left: 1px solid black !important;
+  border-right: 1px solid black !important;
 
   background: url(images/asgardia-sign.png) 6px center;
   background-repeat: no-repeat;
