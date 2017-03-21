@@ -17,10 +17,10 @@ body {
   border-top: 1px solid rgba(80,80,80, .6);
   border-left: 1px solid rgba(80,80,80, .6);
   border-right: 1px solid rgba(80,80,80, .6);
+  padding-top: 32px;
 }
 
 .ui.head-content.segment > .ui.menu {
-  margin-top: 32px;
   background-color: transparent !important;
   color: white !important;
 }
