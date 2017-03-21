@@ -15,3 +15,5 @@ $app->register(new Silex\Provider\TwigServiceProvider(), array(
 $app->get('/', function() use($app) {
   return $app['twig']->render('global.twig.html');
 });
+
+$app->run();
