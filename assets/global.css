@@ -24,7 +24,7 @@ body {
 }
 
 .ui.head-content.segment > .ui.menu {
-  background-color: transparent !important;
+  background-color: rgba(10,10,10, .4) !important;
   color: white !important;
   margin-left: 50px;
 }
