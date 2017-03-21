@@ -21,6 +21,8 @@ body {
 
 .ui.head-content.segment > .ui.menu {
   margin-top: 32px;
+  background-color: transparent !important;
+  color: white !important;
 }
 
 /* space adjustments */
