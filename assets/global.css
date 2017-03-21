@@ -12,7 +12,7 @@ body {
 /* space adjustments */
 
 .ui.space .ui.segment {
-  background-color: rgba(50,50,50,.6) !important;
+  background-color: rgba(30,30,30,.6) !important;
   border: 0 !important;
   box-shadow: none;
 }
