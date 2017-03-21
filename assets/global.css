@@ -43,13 +43,13 @@ body {
   border-left: 1px solid black !important;
   border-right: 1px solid black !important;
 
-  background: url(images/asgardia-sign.png) 6px center;
+  background: url(images/asgardia-sign.png) 16px center;
   background-repeat: no-repeat;
-  background-size: 50px 50px;
+  background-size: 60px 60px;
 }
 
 .ui.head-content.segment > .ui.menu {
   background-color: rgba(10,10,10, .4) !important;
   color: white !important;
-  margin-left: 50px;
+  margin-left: 66px;
 }
