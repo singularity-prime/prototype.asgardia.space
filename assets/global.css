@@ -21,13 +21,14 @@ body {
   box-shadow: none;
 }
 
-.ui.space .ui.segments .ui.segment {
+.ui.space > .ui.segments .ui.segment {
   border-bottom: 1px solid #000 !important;
   border-left: 1px solid black !important;
   border-right: 1px solid black !important;
+  border-radius: 0;
 }
 
-.ui.space .ui.segments .ui.segment:last-child {
+.ui.space > .ui.segments .ui.segment:last-child {
   border-bottom: 1px solid transparent !important;
 }
 
