@@ -68,6 +68,9 @@ body {
   padding-top: 48px !important;
   padding-bottom: 0 !important;
 
+  border-left: 1px solid #a0892c !important;
+  border-right: 1px solid #a0892c !important;
+
   background: url(images/asgardia-sign.png) 16px center;
   background-repeat: no-repeat;
   background-size: 60px 60px;
