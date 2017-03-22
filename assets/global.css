@@ -46,10 +46,23 @@ body {
   background: url(images/asgardia-sign.png) 16px center;
   background-repeat: no-repeat;
   background-size: 60px 60px;
+
+  position: relative;
 }
 
 .ui.head-content.segment > .ui.menu {
   background-color: rgba(10,10,10, .4) !important;
   color: white !important;
   margin-left: 82px;
+}
+
+.ui.head-content.segment .asgardia-panel {
+  height: 33px;
+  width: 296px;
+  background: url(images/asgardia-slogan.png) !important;
+  background-repeat: no-repeat;
+
+  position: absolute;
+  left: 82px;
+  top: 17px;
 }
