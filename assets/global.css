@@ -31,9 +31,6 @@ body {
 .ui space > .ui.segments > .ui.segment:first-child {
   border-bottom: 0px solid transparent !important;
 }
-.ui.space > .ui.segments > .ui.segment:last-child {
-  border-bottom: 0px solid transparent !important;
-}
 
 .ui.space .ui.darker.segment {
   background-color: rgba(20,20,20,.8) !important;
