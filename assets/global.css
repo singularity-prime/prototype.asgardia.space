@@ -78,15 +78,15 @@ body {
 
 .mainframe-panel {
   margin-left: 88px;
-  vertical-align: middle !important;
   line-height: 1;
   font-size: 7pt !important;
   color: rgba(180,180,180,.65);
   text-transform: uppercase;
 }
 
-.mainframe-panel .breadcrumb {
+.mainframe-panel .ui.breadcrumb {
   font-size: 7pt !important;
+  vertical-align: top !important;
 }
 
 .mainframe-panel a {
