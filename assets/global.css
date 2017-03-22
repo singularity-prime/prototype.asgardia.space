@@ -84,10 +84,14 @@ body {
   text-transform: uppercase;
 }
 
+.mainframe-panel .breadcrumb {
+  font-size: 7pt !important;
+}
+
 .mainframe-panel a {
   color: white !important;
 }
 
-.mainfrane.panel a:hover {
+.mainframe.panel a:hover {
   color: yellow !important;
 }
