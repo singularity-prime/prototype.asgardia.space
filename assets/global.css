@@ -29,6 +29,10 @@ body {
   color: white;
 }
 
+.ui.space .ui.light.segment {
+  background-color: rgba(220,220,220,.4) !important;
+}
+
 .ui.space .ui.menu {
   background-color: rgba(10,10,10,.4) !important;
   border: 0 !important;
@@ -109,6 +113,7 @@ body {
 
 .content {
   margin-left: 80px;
+  margin-bottom: -1rem;
 }
 
 .page-heading {
