@@ -71,7 +71,8 @@ body {
 .ui.footer-content.segment footer {
   margin-left: 80px;
   color: #969696 !important;
-
+  text-transform: uppercase;
+  font-size: 7pt;
 }
 
 .ui.head-content.segment {
