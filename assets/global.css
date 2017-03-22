@@ -117,5 +117,6 @@ body {
 }
 
 .page-heading {
+  margin-top: .5rem;
   font-size: 20pt !important;
 }
