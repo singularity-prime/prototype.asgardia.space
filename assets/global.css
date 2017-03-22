@@ -28,8 +28,11 @@ body {
   border-radius: 0;
 }
 
+.ui space > .ui.segments .ui.segment:first-child {
+  border-bottom: 0px solid transparent !important;
+}
 .ui.space > .ui.segments .ui.segment:last-child {
-  border-bottom: 1px solid transparent !important;
+  border-bottom: 0px solid transparent !important;
 }
 
 .ui.space .ui.darker.segment {
