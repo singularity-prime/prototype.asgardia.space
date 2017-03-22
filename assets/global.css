@@ -17,6 +17,10 @@ body {
   box-shadow: none;
 }
 
+.ui.space .ui.darker.segment {
+  background-color: rgba(10,10,10,.6) !important;
+}
+
 .ui.space .ui.menu {
   background-color: rgba(10,10,10,.4) !important;
   border: 0 !important;
