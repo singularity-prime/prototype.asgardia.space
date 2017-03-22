@@ -22,7 +22,7 @@ body {
 }
 
 .ui.space .ui.darker.segment {
-  background-color: rgba(0,0,0,.75) !important;
+  background-color: rgba(25,25,25,.8) !important;
 }
 
 .ui.space .ui.darker.segment * {
