@@ -106,3 +106,7 @@ body {
 .mainframe-panel .infrastructure {
   color: orange !important;
 }
+
+.page-heading {
+  font-size: 20pt !important;
+}
