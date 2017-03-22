@@ -78,6 +78,7 @@ body {
 
 .mainframe-panel {
   margin-left: 88px;
+  vertical-align: middle !important;
   line-height: 1;
   font-size: 7pt !important;
   color: rgba(180,180,180,.65);
@@ -92,6 +93,10 @@ body {
   color: white !important;
 }
 
-.mainframe.panel a:hover {
+.mainframe-panel a:hover {
   color: yellow !important;
+}
+
+.mainframe-panel .infrastructure {
+  color: orange !important;
 }
