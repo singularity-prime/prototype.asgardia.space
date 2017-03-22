@@ -39,6 +39,7 @@ body {
 
 .ui.space .ui.menu .item {
   color: rgba(240,240,240,.8) !important;
+  font-family: "Exo 2", serif !important;
 }
 
 .ui.space .ui.menu .item:hover {
