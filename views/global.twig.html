@@ -47,7 +47,7 @@
           </div>
         </div>
 
-        <div class="ui darker segment" style="min-height:450px">
+        <div class="ui darker segment">
           <div class="mainframe-panel">
             You are accessing:
             <div class="ui breadcrumb">
@@ -59,9 +59,15 @@
             </div>
           </div>
 
-          <h1 class="space-heading">
-            {{ pageTitle|default('Undefined Title') }}
-          </h1>
+          <div class="content">
+            <h1 class="space-heading">
+              {{ pageTitle|default('Undefined Title') }}
+            </h1>
+
+            <div class="ui segment" style="min-height:450px">
+
+            </div>
+          </div>
         </div>
 
       </div>

@@ -107,6 +107,10 @@ body {
   color: orange !important;
 }
 
+.content {
+  margin-left: 80px;
+}
+
 .page-heading {
   font-size: 20pt !important;
 }
