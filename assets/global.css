@@ -16,7 +16,6 @@ body {
 /* space adjustments */
 
 .ui.space .ui.segment:not(.head-content) {
-  background-color: rgba(30,30,30,.6) !important;
   border: 0 !important;
   box-shadow: none;
 }
@@ -74,6 +73,7 @@ body {
   background: url(images/asgardia-sign.png) 16px center;
   background-repeat: no-repeat;
   background-size: 60px 60px;
+  background-color: rgba(30,30,30,.6) !important;
 
   position: relative;
 }
