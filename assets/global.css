@@ -59,9 +59,9 @@ body {
 .ui.head-content.segment .asgardia-panel {
   height: 33px;
   width: 296px;
-  background: url(images/asgardia-slogan.png) !important;
+  background: url(images/asgardia-slogan.png) left center !important;
   background-repeat: no-repeat;
-  background-size: 32px auto;
+  background-size: cover;
   background-position: 98px 16px;
 
   position: absolute;
