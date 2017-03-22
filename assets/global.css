@@ -61,6 +61,8 @@ body {
   width: 296px;
   background: url(images/asgardia-slogan.png) !important;
   background-repeat: no-repeat;
+  background-size: 32px auto;
+  background-position: 98px 16px;
 
   position: absolute;
   left: 82px;
