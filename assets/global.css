@@ -69,6 +69,12 @@ body {
   background-color: rgba(30,30,30,.6) !important;
 }
 
+.ui.footer-content.segment footer {
+  margin-left: 80px;
+  color: #969696 !important;
+
+}
+
 .ui.head-content.segment {
   padding-top: 48px !important;
   padding-bottom: 0 !important;
