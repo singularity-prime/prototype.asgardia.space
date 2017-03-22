@@ -66,6 +66,7 @@ body {
 .ui.head-content.segment {
   padding-top: 48px !important;
   padding-bottom: 0 !important;
+  margin-bottom: -1px;
 
   border-left: 1px solid #a0892c !important;
   border-right: 1px solid #a0892c !important;
