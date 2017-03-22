@@ -28,7 +28,7 @@ body {
   border-radius: 0;
 }
 
-.ui space > .ui.segments > .ui.segment:first-child {
+.ui.space > .ui.segments > .ui.segment:first-child {
   border-bottom: 0px solid transparent !important;
 }
 
