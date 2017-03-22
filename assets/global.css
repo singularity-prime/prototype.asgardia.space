@@ -116,7 +116,7 @@ body {
   margin-bottom: -1rem;
 }
 
-.page-heading {
+h1.page-heading {
   margin-top: 1rem !important;
   font-size: 20pt !important;
 }
