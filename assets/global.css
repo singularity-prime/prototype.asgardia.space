@@ -21,6 +21,10 @@ body {
   background-color: rgba(0,0,0,.75) !important;
 }
 
+.ui.space .ui.darker.segment * {
+  color: white;
+}
+
 .ui.space .ui.menu {
   background-color: rgba(10,10,10,.4) !important;
   border: 0 !important;
@@ -75,7 +79,15 @@ body {
 .mainframe-panel {
   margin-left: 88px;
 
-  font-size: 7pt;
+  font-size: 7pt !important;
   color: rgba(180,180,180,.65);
   text-transform: uppercase;
+}
+
+.mainframe-panel a {
+  color: white !important;
+}
+
+.mainfrane.panel a:hover {
+  color: yellow !important;
 }
