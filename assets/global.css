@@ -21,17 +21,17 @@ body {
   box-shadow: none;
 }
 
-.ui.space > .ui.segments .ui.segment {
+.ui.space > .ui.segments > .ui.segment {
   border-bottom: 1px solid #a0892c !important;
   border-left: 1px solid #a0892c !important;
   border-right: 1px solid #a0892c !important;
   border-radius: 0;
 }
 
-.ui space > .ui.segments .ui.segment:first-child {
+.ui space > .ui.segments > .ui.segment:first-child {
   border-bottom: 0px solid transparent !important;
 }
-.ui.space > .ui.segments .ui.segment:last-child {
+.ui.space > .ui.segments > .ui.segment:last-child {
   border-bottom: 0px solid transparent !important;
 }
 
