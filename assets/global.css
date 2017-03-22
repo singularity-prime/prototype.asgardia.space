@@ -67,3 +67,11 @@ body {
   left: 88px;
   top: 24px;
 }
+
+.mainframe-panel {
+  margin-left: 88px;
+
+  font-size: 7pt;
+  color: rgba(180,180,180,.65);
+  text-transform: uppercase;
+}
